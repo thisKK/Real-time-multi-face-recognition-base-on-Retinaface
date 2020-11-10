@@ -1,1 +1,1 @@
-# -arcfaceV1-retinaface-
+# arcfaceV1-retinaface
