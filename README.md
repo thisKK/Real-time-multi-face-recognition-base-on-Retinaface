@@ -27,7 +27,11 @@
 
     1.put video only one person to train model in to folder 
         ..faceRecognition/Video/
-          --name1
-          --name2
+          -foldername1
+          --video1.mp4
+          --video2.mp4
+          -foldername2
+          --video1.mp4
+          --video2.mp4
     2.run Extrackvideo.py if sucess you will get trainset.pk file 
     3.run FaceRecognition2.py for detect face and reconition. Any way you can edit video path 
