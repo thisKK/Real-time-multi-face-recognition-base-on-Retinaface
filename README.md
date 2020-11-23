@@ -1,13 +1,13 @@
 # Real-time-multi-face-recognition-base-on-Retinaface
-Requirements
+    Requirements
 
     Python 3.5+ (it may work with other versions too)
     Linux, Windows or macOS
     PyTorch (>=1.0)
     opencv
 
-#FaceDetecter
-Install
+# FaceDetecter
+    Install
 
     1. git clone https://github.com/thisKK/Real-time-multi-face-recognition-base-on-Retinaface.git
     3. install Requirements
@@ -17,13 +17,13 @@ Install
           pip install git+https://github.com/elliottzheng/face-detection.git@master
     2. dowload and put weight in to weigth folder 
 
-#FaceRecognition
-Requirements
+# FaceRecognition
+    Requirements
 
     dlib
     faceDetection #our use Retinaface
     
-How to use
+    How to use
 
     1.put video only one person to train model in to folder 
         ..faceRecognition/Video/
